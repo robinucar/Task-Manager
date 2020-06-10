@@ -57,7 +57,6 @@ const TaskForm = () => {
           placeholder="Add Task..."
           type="time"
           id="appt"
-          name="appt"
           min="00:00"
           max="23:59"
           required
